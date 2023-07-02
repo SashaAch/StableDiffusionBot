@@ -1,0 +1,6 @@
+telebot
+webuiapi
+Pillow
+numpy
+pillow-heif
+python-dotenv
